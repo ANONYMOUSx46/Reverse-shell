@@ -6,8 +6,8 @@ import os
 import sys
 import shutil
 
-server_address = '192.168.8.102'
-server_port = 1111
+server_address = 'YOUR_SERVER_IP'
+server_port = YOUR_SERVER_PORT
 
 def execute_command(command):
     try:
