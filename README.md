@@ -2,6 +2,10 @@
 
 ## Python Coded Revese Shell:
 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-blue?style=flat&logo=kali-linux)
+![Netcat](https://img.shields.io/badge/Netcat-Network%20Utility-green?style=flat&logo=linux)
+![Python](https://img.shields.io/badge/Python-3.x-yellow?style=flat&logo=python)
+
 A Python-based reverse shell script that works seamlessly with the Kali Linux tool **netcat**. This script allows you to establish a remote connection to a machine, execute commands, and transfer files. The code can also be run through an obfuscator tool for added security.
 
 ## Prerequisites
